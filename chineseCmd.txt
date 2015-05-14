@@ -1,0 +1,5 @@
+前进 q ian j in
+后退 h ou t ui
+停止 t ing zh ib
+左转 z uo zh uan
+右转 y ou zh uan
